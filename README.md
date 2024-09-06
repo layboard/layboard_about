@@ -1,2 +1,2 @@
 # layboard_about
-Labord, a global job search service. https://layboard.com
+Layboard, a global job search service. https://layboard.com
